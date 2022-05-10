@@ -1,2 +1,2 @@
 # hello-word
-That's the star!
+That's the start!
